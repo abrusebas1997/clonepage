@@ -8,7 +8,7 @@
 .hero-background-img:after {
   content: "";
   position: absolute;
-  background-image: url("/Users/sebastianabarca/SPD1.2/code3/templates/img3.jpeg");
+  background-image: url("templates/img3.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
